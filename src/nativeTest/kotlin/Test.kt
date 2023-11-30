@@ -3,7 +3,7 @@ import kotlin.test.assertFails
 
 class CreateWindowTest {
     @Test
-    fun produceWindow() {
+    fun produceWindowTest() {
         val title = "Test native window for the Windows OS"
         val width = 727
         val height = 420
