@@ -12,7 +12,7 @@
 - [Getting Started](#getting-started)
 - [Contribution Guidelines](#contribution-guidelines)
 
-## Overview
+## Introduction
 
 Welcome to this example project showcasing a native window application developed for the Windows operating system using Kotlin/Native. Specifically designed for MingW x64 architecture, this project serves as a valuable guide for those interested in exploring Kotlin/Native development.
 
