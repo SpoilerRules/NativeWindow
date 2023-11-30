@@ -7,7 +7,6 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Overview](#overview)
 - [Key Features](#key-features)
 - [Getting Started](#getting-started)
 - [Contribution Guidelines](#contribution-guidelines)
