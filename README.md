@@ -25,6 +25,19 @@ Welcome to this example project showcasing a native window application developed
 
 To get started with this example project, follow the link to [Windows x64](https://www.microsoft.com/windows) for information about the Windows operating system. Additionally, explore [Kotlin](https://kotlinlang.org/) and [Gradle](https://gradle.org/) for detailed documentation on these technologies.
 
+### How to Compile?
+
+Execute the following command based on your Gradle setup:
+
+- Using locally installed Gradle:
+  ```bash
+  gradle nativeBinaries
+- Using Gradle wrapper: 
+  ```bash
+  ./gradlew nativeBinaries
+The compiled binaries (both debug and release versions) will be generated inside the `build/bin` folder.
+
+
 ## Contribution Guidelines
 
 Feel free to contribute to this project by following our contribution guidelines (not existent for now). Whether you're fixing bugs, adding features, or improving documentation, your contributions are welcome.
