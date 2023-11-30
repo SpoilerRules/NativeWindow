@@ -24,7 +24,7 @@ Welcome to this example project showcasing a native window application developed
 
 ## Getting Started
 
-To get started with this example project, follow the link to [Windows x64](https://www.microsoft.com/) for information about the Windows operating system. Additionally, explore [Kotlin](https://kotlinlang.org/) and [Gradle](https://gradle.org/) for detailed documentation on these technologies.
+To get started with this example project, follow the link to [Windows x64](https://www.microsoft.com/windows) for information about the Windows operating system. Additionally, explore [Kotlin](https://kotlinlang.org/) and [Gradle](https://gradle.org/) for detailed documentation on these technologies.
 
 ## Contribution Guidelines
 
